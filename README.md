@@ -1,7 +1,7 @@
 # R-CoCitation-Analysis-Tool
 **Automated Bibliometric Networks from PubMed via NCBI E-utilities**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18668047.svg)](https://doi.org/10.5281/zenodo.18668047)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-R-blue.svg)](https://www.r-project.org/)
 
