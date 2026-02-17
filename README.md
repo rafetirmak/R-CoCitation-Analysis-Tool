@@ -1,4 +1,4 @@
-# R-CoCitation-Analysis 
+# R-CoCitation-Analysis-Tool
 **Automated Bibliometric Networks from PubMed via NCBI E-utilities**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
